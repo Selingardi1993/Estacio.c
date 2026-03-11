@@ -1,7 +1,10 @@
 #include <stdio.h>
 int main(){
 
-printf("oi \n");
-return(0);
+char nome[20];
+  int idade;
+  float altura;
 
+  printf("Digite o seu nome: \n);
+    scanf("%s", nome);
 }
