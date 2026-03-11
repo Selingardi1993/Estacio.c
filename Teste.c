@@ -6,5 +6,12 @@ char nome[20];
   float altura;
 
   printf("Digite o seu nome: \n);
-    scanf("%s", nome);
+  scanf("%s", nome);
+  
+  printf("Digite a idade: \n");
+  scanf("%d", &idade);
+
+  printf("Digite a sua idade: \n);
+  scanf("%f", &altura);
+  
 }
